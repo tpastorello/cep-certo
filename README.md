@@ -1,2 +1,4 @@
 # cep-certo
-Alternativa ao webservices do  dos Correios - Cálculo de valores de encomendas
+Alternativa ao webservices do Correios. Cálculo de frete, valores de encomendas.
+
+vinteum.com
