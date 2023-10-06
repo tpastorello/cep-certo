@@ -5,7 +5,7 @@ Cálculo de frete, valores de encomendas.
 
 PHP + Bootstrap
 
-<img src="/print.jpg" alt="print"/>
+<img src="/print.png" alt="print"/>
 
 #
 vinteum.com
